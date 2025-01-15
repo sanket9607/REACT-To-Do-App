@@ -79,5 +79,6 @@ The app integrates with external APIs, uses Redux for state management, and is d
 
 ---
 
+![dashborad](https://github.com/user-attachments/assets/c451a6ff-d84b-4065-a8cd-ad00c60bd01a)
 
-![Screenshot 2025-01-15 005536](https://github.com/user-attachments/assets/c0fb0658-66f4-4646-b9f2-13aa99cb2c04)
+
