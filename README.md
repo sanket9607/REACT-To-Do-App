@@ -51,12 +51,7 @@ The app integrates with external APIs, uses Redux for state management, and is d
    ```bash
    npm install
    ```
-3. Set up environment variables:
-   - Create a `.env` file in the root directory.
-   - Add your API key:
-     ```env
-     REACT_APP_WEATHER_API_KEY=your_api_key
-     ```
+
 
 ### **Running the Application**
 - Start the development server:
@@ -73,16 +68,6 @@ The app integrates with external APIs, uses Redux for state management, and is d
 3. **Delete Tasks:** Click the "Delete" button next to a task to remove it.
 4. **Weather Info:** View weather data related to tasks (if applicable).
 5. **Authentication:** Login to view and manage your tasks. Logout to protect task visibility.
-
----
-
-## **API Reference**
-### OpenWeatherMap API
-- **Endpoint:** `https://api.openweathermap.org/data/2.5/weather`
-- **Example Request:**
-  ```bash
-  GET /weather?q=CityName&appid=your_api_key
-  ```
 
 ---
 
